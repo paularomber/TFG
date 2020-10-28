@@ -11,10 +11,14 @@ Una manera de seguir un procedimiento establecido y estructurado para este estud
 
 **Indice de contenido**
 
-__Podcast_rtve_v2.ipynb__ 
+_**Podcast_rtve_v2.ipynb**_ 
+
 Incluye análisis y preparación de los datos previos al sistema de recomendación. Además, introducción a los sistemas de recomendación con un motor de búsqueda a modo de consulta.
 
-__user_rtve.ipynb__
+_**user_rtve.ipynb**_
+
 Incluye el código implementado en la relización de un sistema de filtrado colaborativo basado en usuario.
 
+_**item_rtve.ipynb**_
 
+Incluye el código implementado en la realización de un sistema de filtrado colaborativo basado en ítem.
