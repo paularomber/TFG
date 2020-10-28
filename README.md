@@ -11,7 +11,7 @@ Una manera de seguir un procedimiento establecido y estructurado para este estud
 
 **Indice de contenido**
 
-__Podcast_rtve_v2.ipynb__ \n
+__Podcast_rtve_v2.ipynb__ "\n"
 Incluye análisis y preparación de los datos previos al sistema de recomendación. Además, introducción a los sistemas de recomendación con un motor de búsqueda a modo de consulta.
 
 __user_rtve.ipynb__\n
