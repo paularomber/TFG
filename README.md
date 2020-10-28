@@ -6,7 +6,7 @@ En el presente repositorio se incluyen los códigos empleados para la realizaci�
 
 El estudio y análisis de datos previo a cualquier sistema de recomendación es necesario para eliminar aquellos datos irrelevantes o que puedan entorpecer el proceso, así como extraer algunas características y conclusiones, de modo que se pueda reconocer el algoritmo más eficaz a implementar para el conjunto de datos.
 
-Una manera de seguir un procedimiento establecido y estructurado para este estudio es el CRISP-DM, (del inglés Cross Industry Standard Process for Data Mining) [30], un proceso que recoge las diferentes etapas sobre las que trabajar en un proyecto de análisis de datos.
+Una manera de seguir un procedimiento establecido y estructurado para este estudio es el CRISP-DM, (del inglés Cross Industry Standard Process for Data Mining) , un proceso que recoge las diferentes etapas sobre las que trabajar en un proyecto de análisis de datos.
 
 
 **Indice de contenido**
