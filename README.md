@@ -9,7 +9,7 @@ El estudio y análisis de datos previo a cualquier sistema de recomendación es 
 Una manera de seguir un procedimiento establecido y estructurado para este estudio es el CRISP-DM, (del inglés Cross Industry Standard Process for Data Mining) [30], un proceso que recoge las diferentes etapas sobre las que trabajar en un proyecto de análisis de datos.
 
 
-{CLASS|formateado1|**Indice de contenido**}
+**Indice de contenido**
 
 __Podcast_rtve_v2.ipynb__
 Incluye análisis y preparación de los datos previos al sistema de recomendación. Además, introducción a los sistemas de recomendación con un motor de búsqueda a modo de consulta.
@@ -18,8 +18,3 @@ __user_rtve.ipynb__
 Incluye el código implementado en la relización de un sistema de filtrado colaborativo basado en usuario.
 
 
-.formateado1 {
-  font-family: Verdana;
-  font-size: 20px;
-  color: red;
-}
